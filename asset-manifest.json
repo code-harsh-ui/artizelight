@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a9fa67e.css",
+    "main.js": "/static/js/main.a405a641.js",
+    "static/js/787.9bb30b69.chunk.js": "/static/js/787.9bb30b69.chunk.js",
+    "static/media/logo_sec-removebg.png": "/static/media/logo_sec-removebg.420b9afa8c27a25d3598.png",
+    "index.html": "/index.html",
+    "main.9a9fa67e.css.map": "/static/css/main.9a9fa67e.css.map",
+    "main.a405a641.js.map": "/static/js/main.a405a641.js.map",
+    "787.9bb30b69.chunk.js.map": "/static/js/787.9bb30b69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a9fa67e.css",
+    "static/js/main.a405a641.js"
+  ]
+}
